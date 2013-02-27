@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GBK"?>
+<loaddatas>
+	<loaddata method="roomType" class="com.yaoxingyu.hotel.web.loaddata.RoomType"/>
+	<loaddata method="roomManage" class="com.yaoxingyu.hotel.web.loaddata.RoomManage"/>
+	<loaddata method="roomJsonData" class="com.yaoxingyu.hotel.web.loaddata.RoomJsonData"/>
+	
+	<loaddata method="orderManage" class="com.yaoxingyu.hotel.web.loaddata.OrderManage"/>
+	<loaddata method="orderJsonData" class="com.yaoxingyu.hotel.web.loaddata.OrderJsonData"/>
+	
+	<loaddata method="register" class="com.yaoxingyu.hotel.web.loaddata.Register"/>
+	<loaddata method="login" class="com.yaoxingyu.hotel.web.loaddata.Login"/>
+</loaddatas>
